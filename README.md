@@ -5,13 +5,13 @@ This is my first project on Software Carpentry. I add some stuff.
 Description
 
 ###  First Tool
-Descriprion of first tool.
+Descriprion of first tool
 
 ### Second Tool
-Description of second tool.
+Description of second tool
 
 ### Third Tool
-Description of third tool.
+Description of third tool
 
 ## Things in a list
 - item1
