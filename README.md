@@ -1,5 +1,5 @@
 # firstproject
-This is my first project on Software Carpentry. I add some stuff.
+This is my first project on Software Carpentry. I add some things.
 
 ## Usage
 Description
