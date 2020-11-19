@@ -1,2 +1,16 @@
 # firstproject
-This is my first project on Software Carpentry. I add some stad
+This is my first project on Software Carpentry. I add some stuff.
+
+## Usage
+Description
+
+###  First Tool
+Descriprion of first tool.
+
+### Second Tool
+Description of second tool.
+
+## Things in a list
+- item1
+- item2
+- item3
